@@ -1,0 +1,35 @@
+body {
+  background-color: #F0EBCE;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #CA965C;
+  border-width: 5px;
+  width: 3%;
+}
+h1 {
+  color: #876445;
+}
+h3 {
+  color: #876445;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+div:hover {
+  background-color: #CA965C;
+  font-weight: bold;
+  font-size: large;
+  height: 40px;
+  margin: 0;
+  position: relative;
+  width: 6%;
+  z-index: auto;
+}
+nav {
+  height: auto;
+  width: auto;
+}
